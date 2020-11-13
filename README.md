@@ -3,7 +3,7 @@
 By: **Naman Jain - 101803065**
 
 ***
-pypi: 
+pypi: <https://pypi.org/project/topsis-NamanJain-101803065/1.0.0/>
 <br>
 git: <https://github.com/namanjain323232/topsis>
 ***
@@ -19,18 +19,16 @@ solution. More details at [wikipedia](https://en.wikipedia.org/wiki/TOPSIS).
 <br>
 
 ## How to use this package?
-
+```
+pip install topsis-NamanJain-101803065
+```
 
 ### In Command Prompt
 ```
+topsis data.csv "1,1,1,1" "+,+,-,+" result.csv
 ```
 <br>
 
-### In Python IDLE:
-```
-```
-
-<br>
 
 ## Sample dataset
 

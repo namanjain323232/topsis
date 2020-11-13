@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="topsis-NamanJain-101803065",
-    version="1.0.0",
+    version="1.0.1",
     author="Naman Jain",
     author_email="namanjain24682468@gmail.com",
     description="Decision Making using topsis (Python Package)",
